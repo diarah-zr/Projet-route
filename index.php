@@ -1,6 +1,6 @@
 
 <?php
-include_once __DIR__ ."/controller/BaseController.php";
+    include_once __DIR__ ."/controller/BaseController.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +17,7 @@ include_once __DIR__ ."/controller/BaseController.php";
 
     <main>
         <?php
-       /*   include_once __DIR__ . "/pages/$page.php"; */
+        include_once __DIR__ . "/pages/$page.php"; 
          ?>
         
 </main>
